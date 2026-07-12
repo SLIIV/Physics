@@ -27,24 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Физика/Механика/Примеры вычисления скорости и ускорения.md",
+                "file": "Физика/Механика/Механическое движение.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Примеры вычисления скорости и ускорения"
+              "title": "Механическое движение"
             }
           },
           {
             "id": "e8ceb078012e78c2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Рисунок 1 Система отсчёта.excalidraw.md"
+                "file": "Физика/Механика/Примеры вычисления скорости и ускорения.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Рисунок 1 Система отсчёта.excalidraw"
+              "icon": "lucide-file",
+              "title": "Примеры вычисления скорости и ускорения"
             }
           },
           {
@@ -60,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,15 +236,15 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "51da8575de21b00f",
+  "active": "e8ceb078012e78c2",
   "lastOpenFiles": [
+    "Физика/Механика/Скорость.md",
     "Физика/Механика/Ускорение.md",
     "Физика/Механика/Примеры вычисления скорости и ускорения.md",
+    "Excalidraw/Рисунок 1 Система отсчёта.excalidraw.md",
     "Физика/Механика/Механическое движение.md",
-    "Физика/Механика/Скорость.md",
     "радиус-вектора.md",
     "Excalidraw/Рисунок 2 Мгновенная скорость.excalidraw.md",
-    "Excalidraw/Рисунок 1 Система отсчёта.excalidraw.md",
     "Excalidraw/Drawing 2026-07-12 15.29.07.excalidraw.md",
     "Excalidraw",
     "Физика/Механика",

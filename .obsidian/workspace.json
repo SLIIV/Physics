@@ -11,13 +11,56 @@
             "id": "b09a37022475b288",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Скорость.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Скорость"
+            }
+          },
+          {
+            "id": "51da8575de21b00f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Примеры вычисления скорости и ускорения.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Примеры вычисления скорости и ускорения"
+            }
+          },
+          {
+            "id": "e8ceb078012e78c2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Рисунок 1 Система отсчёта.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Рисунок 1 Система отсчёта.excalidraw"
+            }
+          },
+          {
+            "id": "14dabc6f6d01c46f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Рисунок 2 Мгновенная скорость.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Рисунок 2 Мгновенная скорость.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Физика/Механика/Примеры вычисления скорости и ускорения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Примеры вычисления скорости и ускорения"
             }
           },
           {
@@ -108,11 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Физика/Механика/Примеры вычисления скорости и ускорения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Примеры вычисления скорости и ускорения"
             }
           },
           {
@@ -150,12 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Физика/Механика/Примеры вычисления скорости и ускорения.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Примеры вычисления скорости и ускорения"
             }
           },
           {
@@ -184,16 +230,24 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "b09a37022475b288",
+  "active": "51da8575de21b00f",
   "lastOpenFiles": [
-    "Физика/Механика/Перемещение.md",
+    "Физика/Механика/Ускорение.md",
+    "Физика/Механика/Примеры вычисления скорости и ускорения.md",
+    "Физика/Механика/Механическое движение.md",
+    "Физика/Механика/Скорость.md",
+    "радиус-вектора.md",
+    "Excalidraw/Рисунок 2 Мгновенная скорость.excalidraw.md",
+    "Excalidraw/Рисунок 1 Система отсчёта.excalidraw.md",
+    "Excalidraw/Drawing 2026-07-12 15.29.07.excalidraw.md",
+    "Excalidraw",
     "Физика/Механика",
     "Физика",
     "Медиафайлы",
-    "Без названия.md",
     "Добро пожаловать.md",
     "создайте ссылку.md"
   ]
